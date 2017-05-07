@@ -721,21 +721,57 @@ span em{
 
 
 
+.contact-phone{
+	margin-bottom: 8px;
+}
+
+.contact-phone i:before {
+    color: #fff;
+    text-shadow: none;
+	font-size: 25px;
+}
+
+
+
+.contact-phone a{
+	color: #666;
+    display: inline-block;
+    margin-left: 25px;
+    transition: all 0.3s ease;
+}
+
+.contact-phone a:hover{
+	color: #fff;
+}
+
+
+address {
+     margin-bottom: 0px; 
+     font-style: italic; 
+        margin-bottom: 0px;
+    font-style: italic;
+    display: inline;
+    margin-left: 25px;
+}
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
+.contact-phone .sto{
+margin-bottom: 0px;
+    font-style: italic;
+    margin-bottom: 0px;
+    font-style: italic;
+    display: inline;
+    margin-left: 25px;
+    display: inline-block;
+    margin-left: 25px;
+    color: #666;
+    display: inline-block;
+    margin-left: 50px;
+    transition: all 0.3s ease;
+    font-size: 14px;
+}
 
 
 
