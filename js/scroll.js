@@ -60,7 +60,21 @@ $( document ).ready(function() {
 $( document ).ready(function() {
  
 		
-
+	$(window).scroll(function() {
+		
+		if ($(document).scrollTop() < 550){
+			$('#bttnn').fadeOut();
+			
+		}
+		
+		else{
+			
+			$('#bttnn').fadeIn();
+			
+		}
+		
+		
+	});
 	
 
   });
