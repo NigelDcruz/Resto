@@ -774,6 +774,60 @@ margin-bottom: 0px;
 }
 
 
+.widget-container ul li{
+	
+    margin-top: -53px;
+}
+
+
+
+.widget-container ul li img{
+	height: 57px;
+    width: 58px;
+    border-radius: 50%;
+       border: 3px solid #090909;
+	
+}
+
+
+
+.widget-container .pt{
+	color: #fff;
+	color: #fff;
+    display: inline-block;
+    position: relative;
+    margin-left: 25px;
+    bottom: 12px;
+}
+
+.widget-container .unn{
+	display: inline-block;
+    position: relative;
+    left: 85px;
+    bottom: 45px;
+	font-size: 12px;
+}
+
+
+
+
+
+
+.widget-container ul li:nth-child(1){
+	margin-top: 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
