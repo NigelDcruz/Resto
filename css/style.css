@@ -672,3 +672,84 @@ span em{
 	height: 463px;
 }
 
+/*//FOOTER/*/
+
+
+.widget-container {
+	background-color: #202020;
+		font-family: "Ubuntu", Helvetica, Arial, sans-serif;
+	
+
+}
+
+
+.widget-title {
+    color: #fff;
+	font-size: 16px;
+    position: relative;
+    margin-bottom: 60px;
+	font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+
+
+
+.widget-title:after {
+    content: "";
+    position: absolute;
+    bottom: -30px;
+    left: 0;
+    display: block;
+    width: 20px;
+    height: 3px;
+    background: #eaeaea;
+	    background: #252525;
+}
+
+
+
+.widget-container p{
+	
+	margin-bottom: 30px;
+	color: #595959;
+	
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
