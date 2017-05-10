@@ -640,35 +640,35 @@ span em{
 
 
 .s-img{
-	width: 282px;
+	width: 108%;
 	height: 232px;
 }
 
 
 .g4{
-	width: 574px;
+	width: 103.5%;
 	height: 231px;
 }
 
 
 .g6{
-	width: 280px;
+	width: 96%;
 	height: 465px;
 }
 
 .gall img {
-	padding: 7px;
+	padding: 0%;
 	padding-top: 10px;
 }
 
 
 .g9 {
-	width: 574px ;
+	width: 103.5% ;
 	height: 230px;
 }
 
 .g10 {
-	width: 572px;
+	width: 98%;
 	height: 463px;
 }
 
@@ -945,6 +945,40 @@ color: #fff;
     font-size: 24px;
 	color: #fff;
 }
+
+
+
+
+/*///////////MEDIA QUERIES////*/
+
+
+
+
+
+
+
+@media screen and (max-width:1200px){
+	
+	
+	
+	
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
