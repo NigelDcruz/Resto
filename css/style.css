@@ -1113,6 +1113,77 @@ color: #fff;
 }
 
 
+@media screen and (max-width:768px){
+	
+	
+	.s2-L .about-main {
+		
+		
+		width: 55%;
+   		left: 28%;
+		top: -10px;
+		
+		
+	}
+	
+	
+	.s2-L .about-inset {
+    width: 26%;
+    left: 22%;
+	top: -21px;
+}
+	
+	
+	.s2-r-head {
+    margin-bottom: 70px;
+    font-family: "Ubuntu", Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #000;
+    position: relative;
+    left: 28%;
+    top: 23px;
+}
+	
+	
+	
+	p {
+    margin-bottom: 32px;
+    font-size: 14px;
+    line-height: 26px;
+    position: relative;
+    left: 6%;
+}
+	
+	.hungry-button {
+    text-align: center;
+    display: inline-block;
+    font-size: 11px;
+    font-weight: 700;
+    line-height: 10px;
+    color: #000;
+    text-transform: uppercase;
+    padding: 19px 30px 21px 30px;
+    margin: 0 16px 20px 0;
+    background: #f0f0f0;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    border-radius: 6px;
+    width: 44%;
+    transition: all 0.3s ease;
+    position: relative;
+    left: 9%;
+}
+	
+	
+	
+	
+	
+	
+	
+}
 
 
 
