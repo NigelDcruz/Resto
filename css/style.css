@@ -1082,6 +1082,10 @@ color: #fff;
 
 @media screen and (max-width:992px){
 	
+	#bttnn {
+    position: fixed;
+    bottom: 37px;
+		right: 22px;}
 	
 	.s2-L .about-main{
 		 width: 83%;
